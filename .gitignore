@@ -34,3 +34,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+notepad/Assets/NoClone.meta
+notepad/Assets/NoClone/*
